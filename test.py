@@ -1,2 +1,2 @@
 print("hello world")
-prinrt("GIT-3")
+print("GIT-3")
